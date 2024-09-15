@@ -1,13 +1,13 @@
-# **🌌 Cosmos Photo Portal 🐾**
+# **🌌 Cosmos Photo Portal 🐈**
 
 Welcome to the **Cosmos Photo Portal**! This interactive website generates random, cute photos of my cat **Cosmo** using **HTML, CSS,** and **JavaScript**.
 
 ---
 
 ### Features 🚀
-- Generates a deck of **18 adorable photos** of Cosmo, using **JavaScript**.
-- Simple, interactive, and fun interface for all cat lovers!
-- Styled with a retro space theme to give you an out-of-this-world experience.
+- Generates a deck of **18 cute photos** of my cat Cosmo, using **JavaScript**.
+- Simple and Interactive!
+- Styled with a retro space theme 
 
 ---
 
