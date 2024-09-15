@@ -11,4 +11,4 @@ Welcome to the **Cosmos Photo Portal**! This interactive website generates rando
 
 ---
 
-Explore the Cosmos (and Cosmo) with just a click! 🖱️✨
+Explore the Cosmos (and Cosmo) with just a [click!](https://brendaneasten.github.io/Cosmos-Photo-Portal/) 🖱️✨
